@@ -1,0 +1,249 @@
+# Al-Khaleejiyah Movers Kuwait — Full Site Content
+# https://www.alkhaleejiyah.com/llms-full.txt
+# Last updated: 2026-05-31
+# Language: Arabic (ar) / English (en)
+# Purpose: Full text content for AI/LLM indexing
+
+---
+
+## Page: Homepage — الصديق لنقل العفش بالكويت
+URL: https://www.alkhaleejiyah.com/
+Title: الصديق لنقل العفش بالكويت | نقل أثاث وفك وتركيب عفش
+Description: شركة الصديق لنقل العفش بالكويت تقدم خدمات نقل الأثاث وفك وتركيب العفش وتغليف الأثاث ونقل المنازل والمكاتب بأسعار مناسبة وخدمة سريعة في جميع مناطق الكويت.
+
+---
+
+## HERO SECTION
+
+Headline: الصديق لنقل العفش بالكويت
+Subheadline: خدمات نقل العفش وفك وتركيب الأثاث ونقل المنازل والشقق والمكاتب في جميع مناطق الكويت بأمان وسرعة وأسعار مناسبة.
+CTA: اتصل الآن — +96599429120
+CTA: واتساب الآن — https://wa.me/96599429120
+
+---
+
+## SERVICES SECTION — خدماتنا المتميزة
+
+### نقل عفش المنازل (Residential Home Moving)
+خدمة نقل عفش المنازل بالكامل مع الفك والتركيب والتغليف بأعلى معايير الأمان لحماية ممتلكاتك.
+Full home furniture moving service including disassembly, assembly, and packing with the highest safety standards to protect your belongings.
+
+### نقل الشقق (Apartment Moving)
+نقل أثاث الشقق في جميع الطوابق مع توفير العمالة المدربة والمعدات اللازمة لنقل آمن.
+Moving apartment furniture across all floors with trained workforce and necessary equipment for safe transport.
+
+### نقل المكاتب (Office Moving)
+نقل أثاث الشركات والمكاتب بسرعة واحترافية لضمان عدم تعطل سير العمل لديكم.
+Moving corporate and office furniture quickly and professionally to ensure no disruption to your workflow.
+
+### فك وتركيب الأثاث (Furniture Assembly & Disassembly)
+نجارون محترفون لفك وتركيب جميع أنواع الأثاث (ايكيا، محلي، أوروبي) بمهارة عالية.
+Professional carpenters for disassembly and assembly of all furniture types (IKEA, local, European) with high skill.
+
+### تغليف العفش (Professional Packing)
+استخدام أفضل مواد التغليف (كرتون، بلاستيك، فقاعات) لحماية الأثاث من الخدوش والكسور.
+Using the best packing materials (cardboard, plastic wrap, bubble wrap) to protect furniture from scratches and breakage.
+
+### نقل الأجهزة الكهربائية (Electrical Appliance Moving)
+طرق متخصصة في نقل الأجهزة الكهربائية والإلكترونية الحساسة بأمان تام.
+Specialized methods for moving sensitive electrical and electronic appliances with complete safety.
+
+### نقل الأثاث الثقيل (Heavy Furniture Moving)
+توفر أوناش ومعدات لرفع وتنزيل القطع الثقيلة التي يصعب نقلها عبر السلالم.
+Providing cranes and equipment for lifting and lowering heavy pieces that are difficult to move via staircases.
+
+### نقل العفش داخل الكويت (Moving Within Kuwait)
+تغطية شاملة لجميع محافظات ومناطق الكويت بأسطول سيارات حديث ومجهز.
+Comprehensive coverage of all Kuwait governorates and areas with a modern, well-equipped truck fleet.
+
+### نقل سريع وآمن (Fast & Safe Moving)
+نلتزم بالمواعيد المحددة ونقدم خدمة سريعة دون المساومة على جودة وأمان النقل.
+We are committed to scheduled times and provide fast service without compromising quality and safety.
+
+---
+
+## ABOUT SECTION — لماذا تختار شركة الصديق؟
+
+نحن في شركة الصديق ندرك تماماً أن عملية الانتقال قد تكون مرهقة، لذلك نضع كل خبراتنا وإمكانياتنا لتوفير تجربة نقل سلسة ومريحة لعملائنا في الكويت.
+
+We at Al-Khaleejiyah Company fully understand that the relocation process can be stressful, so we put all our expertise and capabilities to provide a smooth and comfortable moving experience for our clients in Kuwait.
+
+نعتمد على أحدث أساليب التغليف وأفضل سيارات النقل المجهزة لضمان وصول أثاثك بحالته الأصلية تماماً.
+
+We rely on the latest packing methods and the best equipped moving vehicles to ensure your furniture arrives in its original condition.
+
+Key Features:
+- الخبرة الواسعة: 15+ years of experience in Kuwait
+- الأمان التام: Full safety guarantee on all items
+- الاحترافية العالية: High professionalism
+- سرعة التنفيذ: Fast execution
+
+---
+
+## FEATURES SECTION — مميزات خدماتنا
+
+### أسعار مناسبة (Competitive Pricing)
+نقدم أفضل الأسعار التنافسية في السوق الكويتي مع الحفاظ على جودة الخدمة.
+We offer the best competitive prices in the Kuwaiti market while maintaining service quality.
+
+### عمالة محترفة (Professional Workforce)
+فريق عمل مدرب وذو كفاءة عالية في التعامل مع كافة أنواع الأثاث.
+A trained and highly competent team in handling all types of furniture.
+
+### تغليف احترافي (Professional Packing)
+استخدام أفضل المواد لحماية الأثاث والزجاج من الخدش أو الكسر.
+Using the best materials to protect furniture and glass from scratches or breakage.
+
+### سرعة في التنفيذ (Fast Execution)
+إنجاز مهمة النقل في أسرع وقت ممكن لتوفير وقت وجهد العميل.
+Completing the moving task in the shortest possible time to save the client's time and effort.
+
+### خدمة 24 ساعة (24/7 Service)
+متواجدون على مدار الساعة وطوال أيام الأسبوع لتلقي اتصالاتكم.
+Available around the clock and throughout the week to receive your calls.
+
+### نقل آمن للعفش (Safe Moving)
+ضمان شامل على جميع المنقولات ضد أي أضرار قد تحدث.
+Comprehensive guarantee on all transported items against any damages that may occur.
+
+### سيارات مجهزة (Equipped Vehicles)
+أسطول حديث من سيارات النقل المغلقة المخصصة لنقل العفش.
+A modern fleet of closed moving vehicles dedicated to furniture transport.
+
+### خدمة في جميع المناطق (All Areas Coverage)
+نغطي جميع مناطق ومحافظات دولة الكويت.
+We cover all areas and governorates of Kuwait.
+
+---
+
+## SERVICE AREAS — مناطق الخدمة
+
+Al-Khaleejiyah Movers serves ALL areas of Kuwait including:
+- الكويت العاصمة / Kuwait City (Al Asimah Governorate)
+- حولي / Hawalli
+- الفروانية / Farwaniya
+- الأحمدي / Ahmadi
+- الجهراء / Jahra
+- مبارك الكبير / Mubarak Al-Kabeer
+- السالمية / Salmiya
+- الفحيحيل / Fahaheel
+- صباح السالم / Sabah Al-Salem
+- الرقة / Al-Ruqqa
+
+---
+
+## MOVING CHECKLIST — قائمة التحقق قبل نقل العفش
+
+### Step 1: Before 2 Weeks — قبل أسبوعين من النقل
+- احجز موعد شركة النقل مبكراً / Book the moving company in advance
+- جهّز قائمة بكل قطع الأثاث / Prepare a list of all furniture pieces
+- تخلص من الأغراض غير الضرورية / Get rid of unnecessary items
+- ابدأ بجمع مواد التغليف / Start gathering packing materials
+
+### Step 2: Before 3 Days — قبل 3 أيام من النقل
+- غلّف الأشياء الهشة بالفقاعات الهوائية / Wrap fragile items with bubble wrap
+- رتّب الصناديق حسب الغرف / Organize boxes by room
+- افصل الأجهزة الكهربائية / Disconnect electrical appliances
+- فرّغ الأدراج والخزائن / Empty drawers and cabinets
+
+### Step 3: Moving Day — يوم النقل
+- تأكد من وصول فريق النقل في الموعد / Confirm the moving crew arrives on time
+- ضع علامات واضحة على كل صندوق / Label each box clearly
+- التقط صوراً للأثاث قبل النقل / Photograph furniture before moving
+- أخرج أهل البيت لتسهيل العمل / Move family members out to facilitate work
+
+### Step 4: After Arrival — بعد الوصول للمنزل الجديد
+- تفقّد جميع القطع قبل توقيع الاستلام / Inspect all pieces before signing delivery
+- وجّه الفريق لوضع الأثاث في مكانه / Direct the team to place furniture in position
+- اطلب فك وتركيب ما يلزم فوراً / Request assembly of required pieces immediately
+- تأكد من تشغيل الأجهزة الكهربائية / Verify electrical appliances work
+
+---
+
+## CUSTOMER REVIEWS — آراء العملاء
+
+Review 1 (5/5 stars):
+Reviewer: عبدالله المطيري
+"تجربة ممتازة مع شركة الصديق، عمالة محترفة وسرعة في الإنجاز. نقلوا عفش بيتي من حولي للسالمية بدون أي خدش. شكراً لكم."
+
+Review 2 (4.5/5 stars):
+Reviewer: محمد الشمري
+"خدمة تغليف الأثاث كانت رائعة جداً، حافظوا على التحف والأشياء القابلة للكسر بشكل احترافي. أنصح بالتعامل معهم."
+
+Review 3 (5/5 stars):
+Reviewer: سعد العجمي
+"اتصلت فيهم لنقل مكتبي، التزموا بالموعد والنجار كان شاطر جداً في فك وتركيب المكاتب. أسعارهم معقولة ومناسبة."
+
+Review 4 (5/5 stars):
+Reviewer: خالد العنزي
+"أفضل شركة نقل عفش تعاملت معاها بالكويت. الشباب أمناء وشغلهم نظيف ومرتب. الله يعطيكم العافية."
+
+Review 5 (5/5 stars):
+Reviewer: فهد الهاجري
+"نقلت شقتي بالكامل بأقل من 4 ساعات. احترافية عالية وسيارات نظيفة ومجهزة. تستاهلون الخمس نجوم."
+
+Review 6 (5/5 stars):
+Reviewer: أحمد دشتي
+"كنت أحاتي نقل غرف النوم لأنها ايكيا وتحتاج فك وتركيب دقيق، لكن نجار الشركة كان محترف جداً وركبها أفضل من الأول."
+
+---
+
+## FAQ — الأسئلة الشائعة
+
+Q: هل تقدمون خدمة النقل في جميع مناطق الكويت؟
+A: نعم، نحن في شركة الصديق نغطي جميع محافظات ومناطق دولة الكويت (العاصمة، حولي، الفروانية، الأحمدي، الجهراء، مبارك الكبير) بأسطول من السيارات المجهزة.
+
+Q: Do you cover all areas of Kuwait?
+A: Yes, Al-Khaleejiyah covers all Kuwait governorates and districts with a fully equipped truck fleet.
+
+Q: هل لديكم نجار لفك وتركيب الأثاث؟
+A: بالتأكيد، لدينا نجارون محترفون وذوو خبرة في فك وتركيب جميع أنواع الأثاث بما في ذلك أثاث ايكيا، ميداس، والأثاث المحلي والمستورد.
+
+Q: Do you have carpenters for furniture assembly?
+A: Yes, we have expert carpenters experienced in assembling all furniture types including IKEA, Midas, local and imported brands.
+
+Q: ما هي أسعار نقل العفش لديكم؟
+A: تختلف الأسعار بناءً على حجم الأثاث، المسافة بين المنزلين، وعدد الطوابق والخدمات المطلوبة. نضمن تقديم أفضل الأسعار التنافسية في الكويت. اتصل بنا للحصول على تسعيرة مجانية.
+
+Q: What are your moving prices in Kuwait?
+A: Prices vary based on furniture volume, distance between locations, number of floors, and services required. We guarantee the best competitive prices in Kuwait. Call us for a free quote.
+
+Q: هل توفرون مواد تغليف للأثاث؟
+A: نعم، نوفر أفضل مواد التغليف لحماية العفش مثل النايلون الاسترتش، البابلز (الفقاعات الهوائية)، الكراتين المتينة، الفلين، والبطانيات لحماية الأثاث.
+
+Q: هل تعملون على مدار 24 ساعة؟
+A: نعم، خدماتنا متوفرة على مدار الساعة وطوال أيام الأسبوع لتلبية احتياجات عملائنا في أي وقت يناسبهم.
+
+Q: Are you available 24 hours?
+A: Yes, our services are available 24/7, every day of the week.
+
+Q: كم يستغرق وقت النقل؟
+A: يعتمد الوقت على كمية العفش والمسافة، ولكننا نمتلك فريقاً كبيراً ومحترفاً يضمن إنجاز المهمة بأسرع وقت ممكن.
+
+Q: هل يوجد ضمان على العفش المنقول؟
+A: نعم، نضمن لك وصول كافة ممتلكاتك سليمة وبدون أي خدوش أو تلفيات. نحن نتحمل المسؤولية كاملة في حال حدوث أي ضرر.
+
+Q: هل سيارات النقل مجهزة ومغلقة؟
+A: بالتأكيد، نمتلك أسطولاً من سيارات الهاف لوري الكبيرة والمغلقة لحماية الأثاث من العوامل الجوية أثناء عملية النقل.
+
+Q: هل تقومون بنقل المكاتب والشركات؟
+A: نعم، نقدم خدمات متخصصة في نقل المكاتب والشركات بكل احترافية وفي أوقات تناسب عمل الشركة لعدم تعطيل الدوام.
+
+Q: كيف يمكنني حجز موعد لنقل العفش؟
+A: يمكنك الحجز بسهولة عبر الاتصال على رقمنا +96599429120 أو مراسلتنا عبر الواتساب على نفس الرقم.
+
+Q: How can I book an appointment?
+A: You can easily book by calling us at +96599429120 or messaging us on WhatsApp at the same number.
+
+---
+
+## CONTACT INFORMATION
+
+Company: الصديق لنقل العفش بالكويت / Al-Khaleejiyah Movers Kuwait
+Phone: +965 99429120 (local Kuwait)
+International: +96599429120
+WhatsApp: +96599429120
+Instagram: https://www.instagram.com/naqle_afshe_alkuet?igsh=bTlsajBocWFlcjFi
+Location: Kuwait — covering all governorates
+Hours: 24/7, 365 days a year
+Website: https://www.alkhaleejiyah.com/

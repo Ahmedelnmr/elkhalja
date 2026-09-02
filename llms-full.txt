@@ -6,16 +6,16 @@
 
 ---
 
-## Page: Homepage — الصديق لنقل العفش بالكويت
+## Page: Homepage — الخليجية لنقل العفش بالكويت
 URL: https://www.alkhaleejiyah.com/
-Title: الصديق لنقل العفش بالكويت | نقل أثاث وفك وتركيب عفش
-Description: شركة الصديق لنقل العفش بالكويت تقدم خدمات نقل الأثاث وفك وتركيب العفش وتغليف الأثاث ونقل المنازل والمكاتب بأسعار مناسبة وخدمة سريعة في جميع مناطق الكويت.
+Title: الخليجية لنقل العفش بالكويت | نقل أثاث وفك وتركيب عفش
+Description: شركة الخليجية لنقل العفش بالكويت تقدم خدمات نقل الأثاث وفك وتركيب العفش وتغليف الأثاث ونقل المنازل والمكاتب بأسعار مناسبة وخدمة سريعة في جميع مناطق الكويت.
 
 ---
 
 ## HERO SECTION
 
-Headline: الصديق لنقل العفش بالكويت
+Headline: الخليجية لنقل العفش بالكويت
 Subheadline: خدمات نقل العفش وفك وتركيب الأثاث ونقل المنازل والشقق والمكاتب في جميع مناطق الكويت بأمان وسرعة وأسعار مناسبة.
 CTA: اتصل الآن — +96599429120
 CTA: واتساب الآن — https://wa.me/96599429120
@@ -62,9 +62,9 @@ We are committed to scheduled times and provide fast service without compromisin
 
 ---
 
-## ABOUT SECTION — لماذا تختار شركة الصديق؟
+## ABOUT SECTION — لماذا تختار شركة الخليجية؟
 
-نحن في شركة الصديق ندرك تماماً أن عملية الانتقال قد تكون مرهقة، لذلك نضع كل خبراتنا وإمكانياتنا لتوفير تجربة نقل سلسة ومريحة لعملائنا في الكويت.
+نحن في شركة الخليجية ندرك تماماً أن عملية الانتقال قد تكون مرهقة، لذلك نضع كل خبراتنا وإمكانياتنا لتوفير تجربة نقل سلسة ومريحة لعملائنا في الكويت.
 
 We at Al-Khaleejiyah Company fully understand that the relocation process can be stressful, so we put all our expertise and capabilities to provide a smooth and comfortable moving experience for our clients in Kuwait.
 
@@ -73,7 +73,7 @@ We at Al-Khaleejiyah Company fully understand that the relocation process can be
 We rely on the latest packing methods and the best equipped moving vehicles to ensure your furniture arrives in its original condition.
 
 Key Features:
-- الخبرة الواسعة: 15+ years of experience in Kuwait
+- الخبرة الواسعة: extensive experience in Kuwait
 - الأمان التام: Full safety guarantee on all items
 - الاحترافية العالية: High professionalism
 - سرعة التنفيذ: Fast execution
@@ -164,7 +164,7 @@ Al-Khaleejiyah Movers serves ALL areas of Kuwait including:
 
 Review 1 (5/5 stars):
 Reviewer: عبدالله المطيري
-"تجربة ممتازة مع شركة الصديق، عمالة محترفة وسرعة في الإنجاز. نقلوا عفش بيتي من حولي للسالمية بدون أي خدش. شكراً لكم."
+"تجربة ممتازة مع شركة الخليجية، عمالة محترفة وسرعة في الإنجاز. نقلوا عفش بيتي من حولي للسالمية بدون أي خدش. شكراً لكم."
 
 Review 2 (4.5/5 stars):
 Reviewer: محمد الشمري
@@ -191,7 +191,7 @@ Reviewer: أحمد دشتي
 ## FAQ — الأسئلة الشائعة
 
 Q: هل تقدمون خدمة النقل في جميع مناطق الكويت؟
-A: نعم، نحن في شركة الصديق نغطي جميع محافظات ومناطق دولة الكويت (العاصمة، حولي، الفروانية، الأحمدي، الجهراء، مبارك الكبير) بأسطول من السيارات المجهزة.
+A: نعم، نحن في شركة الخليجية نغطي جميع محافظات ومناطق دولة الكويت (العاصمة، حولي، الفروانية، الأحمدي، الجهراء، مبارك الكبير) بأسطول من السيارات المجهزة.
 
 Q: Do you cover all areas of Kuwait?
 A: Yes, Al-Khaleejiyah covers all Kuwait governorates and districts with a fully equipped truck fleet.
@@ -239,7 +239,7 @@ A: You can easily book by calling us at +96599429120 or messaging us on WhatsApp
 
 ## CONTACT INFORMATION
 
-Company: الصديق لنقل العفش بالكويت / Al-Khaleejiyah Movers Kuwait
+Company: الخليجية لنقل العفش بالكويت / Al-Khaleejiyah Movers Kuwait
 Phone: +965 99429120 (local Kuwait)
 International: +96599429120
 WhatsApp: +96599429120

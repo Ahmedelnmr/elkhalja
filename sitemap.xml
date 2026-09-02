@@ -4,7 +4,7 @@
   <!-- الصفحة الرئيسية -->
   <url>
     <loc>https://www.alkhaleejiyah.com/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,31 +12,31 @@
   <!-- صفحات المحافظات -->
   <url>
     <loc>https://www.alkhaleejiyah.com/naql-afsh-hawalli/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.alkhaleejiyah.com/naql-afsh-ahmadi/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.alkhaleejiyah.com/naql-afsh-farwaniya/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.alkhaleejiyah.com/naql-afsh-jahra/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.alkhaleejiyah.com/naql-afsh-mubarak-alkabeer/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -44,19 +44,19 @@
   <!-- صفحات الخدمات -->
   <url>
     <loc>https://www.alkhaleejiyah.com/fak-tarkib-ikea-kuwait/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.alkhaleejiyah.com/naql-maktab-sharikat-kuwait/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.alkhaleejiyah.com/taghlif-afsh-kuwait/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

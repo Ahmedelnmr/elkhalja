@@ -1730,3 +1730,95 @@ header.scrolled .site-logo {
   object-fit: contain;
   margin-bottom: 1rem;
 }
+
+/* ==========================================================================
+   Hero Badges & Tags
+   ========================================================================== */
+.hero-badges {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  animation: fadeUp 1s ease-out;
+}
+
+.hero-pill {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: var(--white);
+  padding: 0.45rem 1.1rem;
+  border-radius: 50px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: var(--transition);
+}
+
+.hero-pill.highlight {
+  background: rgba(245, 158, 11, 0.25);
+  border-color: var(--accent-color);
+  color: #FEF3C7;
+}
+
+.hero-pill:hover {
+  transform: translateY(-2px);
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* Featured Service Card */
+.service-card.featured-service {
+  border: 2px solid var(--accent-color);
+  box-shadow: 0 10px 25px -5px rgba(245, 158, 11, 0.2);
+  position: relative;
+  background: #FFFDF9;
+}
+
+.service-card.featured-service .featured-ribbon {
+  position: absolute;
+  top: 15px;
+  left: -35px;
+  transform: rotate(-45deg);
+  background: var(--accent-color);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 4px 40px;
+  box-shadow: var(--shadow-sm);
+  z-index: 3;
+}
+
+.service-card .service-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 0.95rem;
+  transition: var(--transition);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.service-card:hover .service-link {
+  color: var(--white);
+}
+
+/* Form Select Controls */
+select.form-control {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2364748B' viewBox='0 0 24 24'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: left 1rem center;
+  background-size: 1.25rem;
+  padding-left: 2.5rem;
+  cursor: pointer;
+}
+

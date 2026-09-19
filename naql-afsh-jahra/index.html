@@ -38,7 +38,15 @@
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type":"ListItem","position":1,"name":"الرئيسية","item":"https://www.alkhaleejiyah.com/"},
-        {"@type":"ListItem","position":2,"name":"نقل عفش الجهراء","item":"https://www.alkhaleejiyah.com/naql-afsh-jahra/"}
+        {"@type":"ListItem","position":2,"name":"نقل عفش الجهراء","item":"https://www.alkhaleejiyah.com/naql-afsh-jahra/"},
+        {
+          "@type": "Service",
+          "name": "نقل عفش الجهراء",
+          "serviceType": "نقل عفش الجهراء",
+          "provider": {"@id": "https://www.alkhaleejiyah.com/#localbusiness"},
+          "areaServed": "KW",
+          "description": "خدمة نقل العفش وفك وتركيب وتغليف الأثاث في محافظة الجهراء بأعلى معايير الأمان."
+        }
       ]
     }
     </script>
@@ -47,7 +55,15 @@
       "@context": "https://schema.org",
       "@graph": [
         {"@type":"Organization","@id":"https://www.alkhaleejiyah.com/#organization","name":"الخليجية لنقل العفش بالكويت","url":"https://www.alkhaleejiyah.com/","telephone":"+96599429120"},
-        {"@type":"MovingCompany","@id":"https://www.alkhaleejiyah.com/#localbusiness","name":"الخليجية لنقل العفش بالكويت","telephone":"+96599429120","areaServed":{"@type":"City","name":"Jahra"}}
+        {"@type":"MovingCompany","@id":"https://www.alkhaleejiyah.com/#localbusiness","name":"الخليجية لنقل العفش بالكويت","telephone":"+96599429120","areaServed":{"@type":"City","name":"Jahra"}},
+        {
+          "@type": "Service",
+          "name": "نقل عفش الجهراء",
+          "serviceType": "نقل عفش الجهراء",
+          "provider": {"@id": "https://www.alkhaleejiyah.com/#localbusiness"},
+          "areaServed": "KW",
+          "description": "خدمة نقل العفش وفك وتركيب وتغليف الأثاث في محافظة الجهراء بأعلى معايير الأمان."
+        }
       ]
     }
     </script>
@@ -64,13 +80,12 @@
     <header id="header">
         <div class="container nav-container">
             <a href="../index.html" class="logo">
-                <img src="../Images/logo.png" alt="الخليجية" class="site-logo">
+                <img src="../Images/logo.png" alt="الخليجية" class="site-logo" width="200" height="80">
             </a>
             <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle Navigation"><i class="fa-solid fa-bars"></i></button>
             <nav class="nav-links" id="navLinks">
                 <a href="../index.html">الرئيسية</a>
                 <a href="../index.html#services">خدماتنا</a>
-                <a href="../qat-aghrad-kuwait/index.html" style="color: var(--accent-color); font-weight:700;">قط أغراض للمحرقة</a>
                 <a href="../index.html#about">من نحن</a>
                 <a href="../index.html#gallery">معرض الصور</a>
                 <a href="../index.html#faq">الأسئلة الشائعة</a>
@@ -176,7 +191,6 @@
                 <a href="../naql-afsh-mubarak-alkabeer/index.html" class="area-card"><i class="fa-solid fa-location-dot"></i> نقل عفش مبارك الكبير</a>
                 <a href="../fak-tarkib-ikea-kuwait/index.html" class="area-card"><i class="fa-solid fa-screwdriver-wrench"></i> فك وتركيب ايكيا</a>
                 <a href="../taghlif-afsh-kuwait/index.html" class="area-card"><i class="fa-solid fa-box-open"></i> تغليف العفش</a>
-                <a href="../qat-aghrad-kuwait/index.html" class="area-card"><i class="fa-solid fa-dumpster"></i> قط أغراض للمحرقة</a>
             </div>
         </div>
     </section>
@@ -187,9 +201,9 @@
             <div class="footer-grid">
                 <div class="footer-col">
                     <div class="footer-logo">
-                        <img src="../Images/logo.png" alt="الخليجية" class="site-logo-footer">
+                        <img src="../Images/logo.png" alt="الخليجية" class="site-logo-footer" width="275" height="110" loading="lazy">
                     </div>
-                    <p>شركة الخليجية لنقل العفش وقط الأغراض للمحرقة بالكويت، نقدم خدمات احترافية في نقل وتغليف وفك وتركيب الأثاث في الجهراء وجميع مناطق الكويت.</p>
+                    <p>شركة الخليجية لنقل العفش بالكويت، نقدم خدمات احترافية في نقل وتغليف وفك وتركيب الأثاث في الجهراء وجميع مناطق الكويت.</p>
                     <div class="social-links">
                         <a href="https://www.instagram.com/naqle_afshe_alkuet?igsh=bTlsajBocWFlcjFi" aria-label="Instagram" rel="noopener noreferrer" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                         <a href="https://wa.me/96599429120" aria-label="WhatsApp" rel="noopener noreferrer" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
@@ -200,7 +214,6 @@
                     <ul class="footer-links">
                         <li><a href="../index.html">الرئيسية</a></li>
                         <li><a href="../index.html#services">خدماتنا</a></li>
-                        <li><a href="../qat-aghrad-kuwait/index.html">قط أغراض للمحرقة</a></li>
                         <li><a href="../index.html#about">من نحن</a></li>
                         <li><a href="../index.html#gallery">معرض الصور</a></li>
                         <li><a href="../index.html#faq">الأسئلة الشائعة</a></li>
@@ -217,7 +230,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="footer-bottom"><p>&copy; 2026 شركة الخليجية لنقل العفش وقط الأغراض بالكويت. جميع الحقوق محفوظة.</p></div>
+            <div class="footer-bottom"><p>&copy; 2026 شركة الخليجية لنقل العفش بالكويت. جميع الحقوق محفوظة.</p></div>
         </div>
     </footer>
 
